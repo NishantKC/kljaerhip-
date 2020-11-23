@@ -3,7 +3,7 @@ var database;
 var foodS,foodStock;
 
 function preload(){
-   dogImg=loadImage("Images/dogImg.png");
+   dogImg=loadImage("images/dogImg.png");
    dogImg1=loadImage("images/dogImg1.png");
   }
 
